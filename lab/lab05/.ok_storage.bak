@@ -1,0 +1,6 @@
+'coords-correct', (0, 66)
+'berry_finder-correct', (512, 66)
+'sprout_leaves-correct', (1024, 66)
+'check_abstraction-correct', (1536, 66)
+'build_successors_table-correct', (2048, 66)
+'construct_sent-correct', (2560, 66)
